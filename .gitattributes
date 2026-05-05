@@ -1,0 +1,6 @@
+# Ensure media files are treated as binary to prevent corruption
+*.mp4 binary
+*.wav binary
+
+# Force specific line endings for the code file
+*.html text eol=lf
